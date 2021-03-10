@@ -4,8 +4,10 @@ with applications like that.
 
 Here are the project images :
 
+![adf](https://user-images.githubusercontent.com/59617257/110696080-ad590980-81fb-11eb-82be-aa2a47b8aed4.PNG)
+
 ![motor](https://user-images.githubusercontent.com/59617257/110696078-acc07300-81fb-11eb-9048-a6101b07465e.PNG)
 
-![adf](https://user-images.githubusercontent.com/59617257/110696080-ad590980-81fb-11eb-82be-aa2a47b8aed4.PNG)
+
 
 
